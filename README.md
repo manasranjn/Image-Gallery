@@ -1,0 +1,2 @@
+# Image-Gallery
+It is a simple and elegant project which I created to master my Web-Development skills using HTML, CSS, JS and jQuery. In this project it displays pictures in a grid layout. When a user hovers over any image, the picture slightly zooms in, and its title smoothly appears, adding an interactive and visually appealing touch. This effect enhances the browsing experience, making it engaging while keeping the design clean and minimal. Perfect for showcasing photos or artwork.
